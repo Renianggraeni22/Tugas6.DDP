@@ -1,0 +1,4 @@
+for b1 in range(1,6):
+        for b2 in range(b1):
+               print("*",end="")
+        print()
